@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://textilecharm.com/sitemap.xml
